@@ -16,8 +16,10 @@ heading 2
 
 Horizontal rule:
 
-'code'
+---
+
+`code`
 
 # code block
-print '124'
-print '122333'
+print `124`
+print `122333`
