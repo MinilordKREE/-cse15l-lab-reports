@@ -5,8 +5,11 @@ HEading 1
 heading 2
 ---------
 [link](https://docs.google.com/document/d/1-CeHsJqb33isXtLtTBTVmncfL2nGHe6WlGX2Q4xxoA8/edit)
+
 ![INMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrylEdmCa6QxCIpX7-95UbvOHEY-D1ny01fQ&usqp=CAU)
+
 > Blockquote
+> 
 *list
 *list
 
@@ -20,6 +23,8 @@ Horizontal rule:
 
 `code`
 
+```
 # code block
 print `124`
 print `122333`
+```
