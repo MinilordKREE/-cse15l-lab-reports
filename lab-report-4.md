@@ -5,9 +5,11 @@ part 1
   
 Expected value 
 ========= 
+
 For Snippet1, we hope to have `google.com because this link is the only one in right form. 
 For Snippet2, we hope to have a.com(()) because this link is the only one in right form. 
 For Snippet3, we hope to have https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule.  
+
 Test results
 ========= 
 ![Image](https://github.com/MinilordKREE/-cse15l-lab-reports/blob/main/snippet1.png)  
